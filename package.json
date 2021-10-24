@@ -2,6 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://avi-gamliel.github.io/photo_online/",
   "proxy": "http://localhost:4002",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
